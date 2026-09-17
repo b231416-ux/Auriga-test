@@ -1,0 +1,14 @@
+build/
+
+parking_garage
+parking_garage_test
+parking_spot_test
+parking_ticket_test
+parking_ticket_testt
+rate_config_test
+vehicle_test
+
+*.o
+*.out
+
+.vscode/
