@@ -1,0 +1,1 @@
+My Auriga test project
